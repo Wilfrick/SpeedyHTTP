@@ -1,0 +1,1 @@
+This is a simple HTTP server written in pure Python 3.10 for fun. This is not production code and I can't guarantee that it will work as you expect it might. If you'd like to host an HTTP server for anything remotely serious I'd suggest using Apache or Nginx rather than this. 
