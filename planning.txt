@@ -1,0 +1,1 @@
+Should have a better way to read and write data. - Have read requests and write requests
